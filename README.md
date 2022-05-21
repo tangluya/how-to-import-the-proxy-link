@@ -10,7 +10,7 @@
 
 <h2><a href="#mac">4、 Mac教程</a></h2>
 
-<h2><a href="#mac">5、其他问题说明</a></h2>
+<h2><a href="#error">5、其他问题说明</a></h2>
 
 
 
@@ -62,9 +62,15 @@
 >
 ><a href="https://ghproxy.com/https:/github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.10/Clash.for.Windows-0.19.10.dmg" target="_blank">工具Clash for Mac</a>
 
+<h3 id="error">6、其他问题说明</h3>
 
-
-
-
+> - 节点均为不限速，速度慢时请测延时后切换节点
+> 
+> - 因vmess+ws+tls加密特殊性延时略微较高，不过我感觉应该影响不大
+> 
+> - 部分香港节点无法下载Google Play应用，请更换节点
+>
+> - 大部分节点均解锁流媒体
+>
 
 
