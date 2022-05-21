@@ -17,10 +17,9 @@
 <h3 id="andrioid">1、Android教程:</h3>
 
 <h5><a href="https://ghproxy.com/https:/github.com/Kr328/ClashForAndroid/releases/download/v2.5.4/cfa-2.5.4-premium-universal-release.apk" target="_blank">工具Clash For Android(点击下载)</a></h5>
+![Android1](./gift-instruction/andrioid1.png)
 
-[Android](https://github.com/tangluya/how-to-import-the-proxy-link/blob/main/gift-instruction/andrioid1.png?raw=true)
-
-[Android](https://github.com/tangluya/how-to-import-the-proxy-link/blob/main/gift-instruction/gift-instruction/andrioid2.png)
+![Android](gift-instruction/andrioid2.png)
 
 
 
@@ -52,7 +51,7 @@
 >
 > <a href="https://ghproxy.com/https:/github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.19.9_CN/Clash.for.Windows.Setup.0.19.9.exe" target="_blank">工具Clash for Windows汉化版</a>
 
-[windows](https://github.com/tangluya/how-to-import-the-proxy-link/blob/main/gift-instruction/gift-instruction/windows1.png)
+![windows](gift-instruction/windows1.png)
 
 
 
