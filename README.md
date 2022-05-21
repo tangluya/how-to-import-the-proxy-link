@@ -18,7 +18,7 @@
 
 <h5><a href="https://ghproxy.com/https:/github.com/Kr328/ClashForAndroid/releases/download/v2.5.4/cfa-2.5.4-premium-universal-release.apk" target="_blank">工具Clash For Android(点击下载)</a></h5>
 
-[Android]([https://github.com/tangluya/how-to-import-the-proxy-link/blob/main/gift-instruction/gift-instruction/andrioid1.png](https://github.com/tangluya/how-to-import-the-proxy-link/blob/main/gift-instruction/andrioid1.png?raw=true))
+[Android](https://github.com/tangluya/how-to-import-the-proxy-link/blob/main/gift-instruction/andrioid1.png?raw=true)
 
 [Android](https://github.com/tangluya/how-to-import-the-proxy-link/blob/main/gift-instruction/gift-instruction/andrioid2.png)
 
