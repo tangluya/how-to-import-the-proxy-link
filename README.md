@@ -17,7 +17,7 @@
 <h3 id="andrioid">1、Android教程:</h3>
 
 <h5><a href="https://ghproxy.com/https:/github.com/Kr328/ClashForAndroid/releases/download/v2.5.4/cfa-2.5.4-premium-universal-release.apk" target="_blank">工具Clash For Android(点击下载)</a></h5>
-![Android1](gift-instruction/andrioid1.png)
+![Android](gift-instruction/andrioid1.png)
 
 ![Android](gift-instruction/andrioid2.png)
 
@@ -59,7 +59,7 @@
 
 > Mac版本的也叫 Clash for Windows，Clash for Windows 的Mac版本与Window版一致。如果你还不知道如何操作，请阅读 Window 版本的 Clash for Windows 操作说明。
 >
-> ​    <a href="https://ghproxy.com/https:/github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.10/Clash.for.Windows-0.19.10.dmg" target="_blank">工具Clash for Mac</a>
+><a href="https://ghproxy.com/https:/github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.10/Clash.for.Windows-0.19.10.dmg" target="_blank">工具Clash for Mac</a>
 
 
 
